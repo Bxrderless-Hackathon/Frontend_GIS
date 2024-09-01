@@ -137,7 +137,6 @@ iframe{
     text-align: start;
     box-shadow: 1px 1px 5px rgb(172, 172, 172);
     background-color: white;
-    
 }
 
 .require-holder h4, .view-wrapper h4, .view-wrapper h2{
@@ -224,4 +223,9 @@ iframe{
 .number-failed{
     border: 1px solid #ccc;
     background-color: #fff;
+}
+.mapDiv{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 6rem;
 }
